@@ -1,4 +1,4 @@
-import "../src/commonResource/css/bootstrap.css"; //if i want use but if i use jquery it is recommeded to use react bootstraps
+// import "../src/commonResource/css/bootstrap.css"; //if i want use but if i use jquery it is recommeded to use react bootstraps
 // import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
 import Header from "../components/Header/Header";

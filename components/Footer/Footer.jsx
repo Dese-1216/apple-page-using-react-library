@@ -1,3 +1,4 @@
+import "./custom";
 import country from "../../src/commonResource/images/icons/16.png";
 
 const Footer = () => {
